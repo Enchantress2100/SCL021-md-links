@@ -7,8 +7,8 @@
   "dependencies": {
     "chalk": "^5.0.1",
     "node-emoji": "^1.11.0",
-    "path": "^0.12.7",
-    "yargs": "^17.6.0"
+    "node-fetch": "^3.2.10",
+    "path": "^0.12.7"
   },
   "description": "## Índice",
   "main": "bin/index.js",
