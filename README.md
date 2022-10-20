@@ -4,8 +4,8 @@ Este proyecto lee directorios, lee los archivos md y extrae los links que haya e
 
 # Diagrama de flujo
 
-<img src="Diagrama de flujo definitivo.png">
+<img src="img/Diagrama de flujo definitivo.png">
 
 # Demo
 
-<img src="Captura de Pantalla 2022-10-20 a la(s) 10.11.26.png">
+<img src="img/Captura de Pantalla 2022-10-20 a la(s) 10.11.26.png">
