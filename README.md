@@ -4,8 +4,8 @@ Este proyecto lee directorios, lee los archivos md y extrae los links que haya e
 
 # Diagrama de flujo
 
-<image src="/Users/enchantress/Desktop/Laboratoria/SCL021-md-links/img/Diagrama de flujo definitivo.png" alt="Descripción de la imagen">
+<img src="/Users/enchantress/Desktop/Laboratoria/SCL021-md-links/img/Diagrama de flujo definitivo.png" alt="Diagrama flujo">
 
 # Demo
 
-<image src="/Users/enchantress/Desktop/Laboratoria/SCL021-md-links/img/Captura de Pantalla 2022-10-20 a la(s) 10.11.26.png" alt="Descripción de la imagen">
+<img src="/Users/enchantress/Desktop/Laboratoria/SCL021-md-links/img/Captura de Pantalla 2022-10-20 a la(s) 10.11.26.png" alt="Demo">
