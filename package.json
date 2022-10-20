@@ -1,11 +1,12 @@
 {
-  "name": "md-links",
+  "name": "md-links-consuelo",
   "version": "0.1.0",
   "engines": {
     "node": ">=16.x"
   },
   "dependencies": {
-    "node-fetch": "^3.2.10",
+    "fs": "^0.0.1-security",
+    "md-links-consuelo": "^0.1.0",
     "path": "^0.12.7"
   },
   "description": "## Índice",
@@ -31,7 +32,5 @@
   "bugs": {
     "url": "https://github.com/Enchantress2100/SCL021-md-links/issues"
   },
-  "homepage": "https://github.com/Enchantress2100/SCL021-md-links#readme",
-  "devDependencies": {
-  }
+  "homepage": "https://github.com/Enchantress2100/SCL021-md-links#readme"
 }
