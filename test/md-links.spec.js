@@ -1,10 +1,17 @@
-const mdLinks = require('../');
+const mdLinks= require("/Users/enchantress/Desktop/Laboratoria/SCL021-md-links/bin/index.js")
+const testerPath = require("filesTest");
 
-
+// Test 
 describe('mdLinks', () => {
-
-  it('should...', () => {
-    console.log('FIX ME!');
-  });
-
+  it('is a function', () => {
+    expect(typeof mdLinks).toBe('function');
+  })
 });
+
+describe('testerPath'), () => {
+  it('is a folder', () => {
+    expect(typeof testerPath).toBe('folder');
+  })
+};
+
+
