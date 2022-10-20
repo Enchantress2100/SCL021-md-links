@@ -4,12 +4,9 @@ Este proyecto lee directorios, lee los archivos md y extrae los links que haya e
 
 Instalar: npm i md-links-consuelo
 
-
-const mdLinks = require('md-links-consuelo');
-
+ejecutar: tran folder --validate
 
 https://www.npmjs.com/package/md-links-consuelo
-
 
 
 # Diagrama de flujo
